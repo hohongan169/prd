@@ -1,6 +1,5 @@
 dsklibgo.so  ev-desk-api-json
 libgo.so  ev11-api-json
 libgo11sg.so ev11-sg-api-json-dell
-libgo2.so ev11-api-json-dell
-libgomk_3.so  orz-json
+libgomk_5.so  orz-json
 libgomy.so  myviu-api-json
