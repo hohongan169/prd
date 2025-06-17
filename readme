@@ -1,7 +1,8 @@
 dsklibgo.so  ev-desk-api-json
 libgo.so  v11-api-json
 libgo.so  v10-api-json
-libgo11sg.so ev11-sg-api-json-dell
+libgor.so vrh-api-json
+libgo11sg.so v11-sg-api-json-dell
 libgomk_5.so  orz-json
 libgomy.so  myviu-api-json
 apmk.so app-store
