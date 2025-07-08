@@ -1,8 +1,9 @@
 dsklibgo.so  v11-desk-api-json
 dsklibgo10.so v10-desk-api-json
 dsklibgo12.so v12-desk-api-json
-libgo.so  v11-api-json
-libgo.so  v10-api-json
+libgo12.so  v12-api-json
+libgo11.so  v11-api-json
+libgo10.so  v10-api-json
 libgor.so vrh-api-json
 libgo11sg.so v11-sg-api-json-dell
 libgomk_5.so  orz-json
